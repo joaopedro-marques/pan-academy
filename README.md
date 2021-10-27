@@ -6,22 +6,13 @@
   
 </p>
 
-<p align="Justify">Repositório de projetos, aulas e informações do bootcamp intensivo da Pan Academy, uma parceria entre o Banco Pan e Gama Academy com o foco em desenvolvimento Java, Spring e AWS. </p>
+<p id="Sobre" align="Justify">Repositório de projetos, aulas e informações do bootcamp intensivo da Pan Academy, uma parceria entre o Banco Pan e Gama Academy com o foco em desenvolvimento Java, Spring e AWS. </p>
 
 Tabela de conteúdos
 =================
 <!--ts-->
    * [Sobre](#Sobre)
-   * [Tabela de Conteudo](#tabela-de-conteudo)
-   * [Instalação](#instalacao)
-   * [Como usar](#como-usar)
-      * [Pre Requisitos](#pre-requisitos)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-   * [Tests](#testes)
-   * [Tecnologias](#tecnologias)
+   
 <!--te-->
 
 <h4 align="center"> 
