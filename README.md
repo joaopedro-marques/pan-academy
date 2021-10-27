@@ -38,5 +38,4 @@ As seguintes ferramentas foram usadas na construção do repositório:
 
 
 Feito por João Pedro Marques 👋🏽 Entre em contato!
-
- [![Linkedin Badge](https://www.linkedin.com/in/joao-pedro-marques-mourao/) 
+[![Linkedin Badge](https://img.shields.io/badge/-João-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-pedro-marques-mourao/)](https://www.linkedin.com/in/joao-pedro-marques-mourao/)
