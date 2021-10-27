@@ -27,3 +27,16 @@ As seguintes ferramentas foram usadas na construção do repositório:
 - [Spring](https://spring.io/)
 - [AWS](https://docs.aws.amazon.com/)
 - [Junit](https://junit.org/junit5/)
+
+
+### Autor
+---
+
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/64924032?s=400&u=32a74f0cb09f0972475d6ab43c656aa5fec0b22b&v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>João Pedro Marques</b></sub></a>
+
+
+Feito por João Pedro Marques 👋🏽 Entre em contato!
+
+ [![Linkedin Badge](https://www.linkedin.com/in/joao-pedro-marques-mourao/) 
