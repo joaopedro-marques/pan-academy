@@ -37,6 +37,8 @@ Tabela de conteúdos
    * [Utilização de servidor Eureka em Microsserviços](https://github.com/joaopedro-marques/pan-academy/tree/main/servidor-.eureka)
    * [Constructors em Java](https://github.com/joaopedro-marques/pan-academy/tree/main/z-contructores)
    * [Debugando em Java](https://github.com/joaopedro-marques/pan-academy/tree/main/micro_tabela)
+   * [Microsserviços em Spring utilizando o zull](https://github.com/joaopedro-marques/pan-academy/tree/main/AppUsandoZull)
+   * [Manipulando JSON Object com Java](https://github.com/joaopedro-marques/pan-academy/tree/main/json)
 <!--te-->
 
 <h4 align="center"> 
