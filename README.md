@@ -39,6 +39,11 @@ Tabela de conteúdos
    * [Debugando em Java](https://github.com/joaopedro-marques/pan-academy/tree/main/micro_tabela)
    * [Microsserviços em Spring utilizando o zull](https://github.com/joaopedro-marques/pan-academy/tree/main/AppUsandoZull)
    * [Manipulando JSON Object com Java](https://github.com/joaopedro-marques/pan-academy/tree/main/json)
+   * [Revisão projeto com Feign](https://github.com/joaopedro-marques/pan-academy/tree/main/AplicacaoFeignRevisao)
+   * [Aplicação com Zuul para deploy](https://github.com/joaopedro-marques/pan-academy/tree/main/AppUsandoZull)
+   * [Anotações de aula de jira com história de usuário](https://github.com/joaopedro-marques/pan-academy/tree/main/HistoriadeUsuarioGira)
+   * [Aula de polimorfismo](https://github.com/joaopedro-marques/pan-academy/tree/main/over)
+   * [Desafio para entrega de leitura de JSONobject e JSONArray](https://github.com/joaopedro-marques/pan-academy/blob/main/json/src/main/java/com/json/DesafioLeitura.java)
 <!--te-->
 
 <h4 align="center"> 
