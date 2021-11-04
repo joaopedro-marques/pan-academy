@@ -44,7 +44,8 @@ Tabela de conteúdos
    * [Anotações de aula de jira com história de usuário](https://github.com/joaopedro-marques/pan-academy/tree/main/HistoriadeUsuarioGira)
    * [Aula de polimorfismo](https://github.com/joaopedro-marques/pan-academy/tree/main/over)
    * [Desafio para entrega de leitura de JSONobject e JSONArray](https://github.com/joaopedro-marques/pan-academy/blob/main/json/src/main/java/com/json/DesafioLeitura.java)
-<!--te-->
+   *  [Desafio para entrega de leitura e escrita de JSON](https://github.com/joaopedro-marques/pan-academy/tree/main/DesafioJSON2)
+  
 
 <h4 align="center"> 
 🔨  Pan Academy ☕ Em andamento... 🔨
